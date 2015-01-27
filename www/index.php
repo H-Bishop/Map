@@ -26,11 +26,8 @@ function imprimirAle(){
 		echo $a;
 	}
 }
-<<<<<<< HEAD
 
 function imprimirAdriano(){
-	echo "Ola Adriano";
-	echo "Adriano e Bonito e Sex";
+	echo "Ola Alexandre";
+	echo Alexandre e Bonito e Sex";
 }
-=======
->>>>>>> origin/master
