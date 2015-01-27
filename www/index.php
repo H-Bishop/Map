@@ -8,8 +8,7 @@ if "Adriano"{
 	echo "Vc é muito feio";
 }
 else{
-	echo "Ola Adriano";
-	echo "Adriano e Bonito e Sex";
+	imprimirAdriano();
 }
 
 //contagem
@@ -23,4 +22,9 @@ function imprimirAle(){
 	for( $a=0 , $a > 10, $a++ ){
 		echo $a;
 	}
+}
+
+function imprimirAdriano(){
+	echo "Ola Adriano";
+	echo "Adriano e Bonito e Sex";
 }
