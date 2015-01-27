@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 //funcao ale
 imprirAle();
 
@@ -11,6 +11,7 @@ else{
 	echo "Ola Adriano";
 	echo "Adriano e Bonito e Sex";
 }
+//contagem
 for (){
 	echo "teste";
 }
@@ -18,3 +19,11 @@ for (){
 /**
 *Testando comentaraio
 */
+
+//Teste
+function imprimirAle(){
+	echo "alexandre e Bonito e Sex";
+	for( $a=0 , $a > 10, $a++ ){
+		echo $a;
+	}
+}
