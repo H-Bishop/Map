@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 //funcao ale
 imprirAle();
 
@@ -10,11 +10,14 @@ if "Adriano"{
 else{
 	imprimirAdriano();
 }
-
 //contagem
 for (){
 	echo "teste";
 }
+//Teste
+/**
+*Testando comentaraio
+*/
 
 //Teste
 function imprimirAle(){
@@ -23,8 +26,11 @@ function imprimirAle(){
 		echo $a;
 	}
 }
+<<<<<<< HEAD
 
 function imprimirAdriano(){
 	echo "Ola Adriano";
 	echo "Adriano e Bonito e Sex";
 }
+=======
+>>>>>>> origin/master
