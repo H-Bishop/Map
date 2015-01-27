@@ -1,7 +1,8 @@
-﻿<?php
-echo "alexandre e Bonito e Sex";
-for( $a=0 , $a > 10, $a++ ){
-echo $a;
+<?php
+//funcao ale
+imprirAle();
+
+//if adriano
 if "Adriano"{
 	echo "Ola Alexandre";
 	echo "Vc é muito feio";
