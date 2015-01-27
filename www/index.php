@@ -10,3 +10,6 @@ else{
 	echo "Ola Adriano";
 	echo "Adriano e Bonito e Sex";
 }
+for (){
+	echo "teste";
+}
