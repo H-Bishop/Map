@@ -13,4 +13,7 @@ else{
 for (){
 	echo "teste";
 }
-Teste
+//Teste
+/**
+*Testando comentaraio
+*/
